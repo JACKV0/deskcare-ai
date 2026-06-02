@@ -1,143 +1,149 @@
-# 🧠 DeskCare AI
+# DeskCare AI
 
-### An AI-Powered Wellness System Designed for Modern Digital Work
+<p align="center">
+ <img width="55" height="53" alt="image" src="https://github.com/user-attachments/assets/7ade4617-ca8c-414f-ae90-00afef57be7d" />
 
-Most people spend thousands of hours every year in front of a screen.
+</p>
 
-Developers, designers, office workers, students, and gamers often work continuously without realizing the impact on their health:
+<h3 align="center">
+Stay Healthy While You Work
+</h3>
 
-* Eye strain
-* Fatigue
-* Poor posture
-* Burnout
-* Reduced focus and productivity
+<p align="center">
+DeskCare AI helps professionals maintain healthy work habits through intelligent reminders, wellness guidance, and focus-friendly assistance.
+</p>
 
-Traditional reminder apps try to solve this with simple timers.
-
-But fixed reminders quickly become repetitive, annoying, and easy to ignore.
-
-## 🚀 DeskCare AI takes a completely different approach.
-
-Instead of acting like a basic timer application, DeskCare AI is being built as an **adaptive wellness intelligence system** that understands user behavior and continuously improves reminder timing using AI-driven learning models.
+<p align="center">
+Available for Windows and macOS
+</p>
 
 ---
 
-# ✨ More Than a Reminder App
+## Overview
 
-DeskCare AI is designed around one core philosophy:
+Modern professionals spend countless hours in front of screens.
 
-> Healthy productivity requires intelligent timing, not constant interruption.
+Long working sessions often lead to eye strain, dehydration, poor posture, fatigue, and reduced productivity.
 
-The system studies:
+DeskCare AI was created to solve these problems through a simple and unobtrusive desktop experience that helps users maintain healthier work routines throughout the day.
 
-* Focus patterns
-* Working rhythm
-* User interaction behavior
-* Break acceptance habits
-* Daily productivity cycles
-
-Using adaptive behavioral logic, DeskCare AI dynamically determines:
-
-* When a reminder should appear
-* Which type of wellness action is most appropriate
-* How to minimize interruption while maximizing effectiveness
-
-Over time, the experience becomes increasingly personalized for each user.
+Whether you're a software developer, office worker, designer, student, or remote employee, DeskCare AI helps you take better care of yourself while staying focused on your work.
 
 ---
 
-# 🧠 Built Around Adaptive AI
+## Key Features
 
-Most wellness apps rely on static schedules.
+### 💧 Hydration Reminders
 
-DeskCare AI is designed around:
+Receive intelligent reminders to drink water regularly and maintain healthy hydration habits throughout the day.
 
-* Behavioral adaptation
-* Context-aware reminder timing
-* Personalized wellness scoring
-* Intelligent notification frequency
-* Continuous optimization based on user interaction
+### 👀 Eye Protection Breaks
 
-This creates a wellness system that evolves with the user instead of forcing users into rigid schedules.
+Reduce digital eye strain with scheduled screen breaks based on healthy workplace recommendations.
+
+### 🪑 Movement & Stretch Guidance
+
+Get timely prompts to stand up, stretch, and improve circulation during long periods of sitting.
+
+### 🧠 AI Wellness Assistant
+
+Receive personalized wellness suggestions designed around your work patterns and daily routines.
+
+### 🎯 Focus-Friendly Experience
+
+Notifications are carefully designed to support healthy habits without disrupting concentration.
+
+### 🔒 Privacy First
+
+DeskCare AI respects user privacy and minimizes data collection whenever possible.
+
+### ⚡ Lightweight & Efficient
+
+Fast startup, low resource consumption, and seamless operation in the background.
 
 ---
 
-# 💻 Created for People Who Live on Computers
+## Why DeskCare AI?
 
-DeskCare AI is designed specifically for:
+Many productivity tools focus on helping people work more.
 
-* Developers
+DeskCare AI focuses on helping people work healthier.
+
+Small healthy habits practiced consistently can help reduce fatigue, improve concentration, and support long-term well-being.
+
+DeskCare AI acts as a friendly companion that encourages those habits throughout your workday.
+
+---
+
+## Who Is It For?
+
+DeskCare AI is designed for:
+
+* Software Developers
+* Office Professionals
+* Remote Workers
 * Designers
-* Office professionals
-* Remote workers
-* Gamers
 * Students
-* Digital creators
-
-The experience is optimized for long-hour computer usage environments where maintaining focus is critical.
-
----
-
-# 🌟 Key Experiences
-
-## 👀 Intelligent Eye-Care Assistance
-
-Adaptive screen break timing designed to reduce eye fatigue without disrupting concentration.
-
-## 💧 Smart Hydration Guidance
-
-Context-aware reminders that fit naturally into work sessions.
-
-## 🧍 Movement & Stretch Support
-
-Encourages healthier physical activity during extended sedentary work.
-
-## 📊 Wellness Intelligence Dashboard
-
-Provides insights into working habits, recovery behavior, and long-term wellness trends.
-
-## 🔄 Cross-Device Synchronization
-
-Seamless synchronization between desktop and mobile experiences.
-
-## 📱 Mobile Companion Experience
-
-Access wellness insights and synchronized reminders anywhere.
+* Content Creators
+* Customer Support Teams
+* Anyone who spends extended periods working at a computer
 
 ---
 
-# 🔥 The Long-Term Vision
+## Platform Support
 
-DeskCare AI is evolving toward becoming:
-
-* An intelligent wellness operating layer
-* A digital burnout prevention platform
-* An AI productivity-health companion
-* A workplace wellness ecosystem
-* A behavioral health assistant for modern work environments
-
-Future directions may include:
-
-* Wearable integrations
-* AI wellness coaching
-* Enterprise wellness analytics
-* Team productivity health metrics
-* Personalized recovery recommendations
+| Platform | Status      |
+| -------- | ----------- |
+| Windows  | ✅ Supported |
+| macOS    | ✅ Supported |
 
 ---
 
-# ❤️ Why DeskCare AI Exists
+## Screenshots
 
-Technology has dramatically improved productivity.
+### Dashboard
 
-But very little technology has been designed to protect the health of the people using it.
+<img width="1323" height="890" alt="image" src="https://github.com/user-attachments/assets/107982f4-73fa-4cf2-aad4-5ec4db0f0db2" />
 
-DeskCare AI was created to help bridge that gap.
 
-Because sustainable productivity starts with sustainable health.
+## Download
+
+Download the latest version from the Releases section.
+
+### Latest Release
+
+https://github.com/YOUR_ORGANIZATION/deskcare/releases
 
 ---
 
-# 📬 Coming Soon
+## Frequently Asked Questions
 
-AI Wellness Engine • Desktop Platform • Mobile Companion • Adaptive Intelligence System
+### Does DeskCare AI require an internet connection?
+
+Some AI-powered features may require internet access. Core wellness reminders work locally.
+
+### Does DeskCare AI track my activity?
+
+DeskCare AI is designed with privacy in mind and only uses the information necessary to provide wellness assistance.
+
+### Is DeskCare AI free?
+
+Please refer to the latest release information and licensing terms.
+
+---
+
+## Support
+
+Need help or want to report an issue?
+
+Please create an issue in this repository or contact our support team.
+
+---
+
+## About DeskCare
+
+DeskCare AI was built with a simple mission:
+
+**Help people stay healthy while working with technology.**
+
+Because better work starts with better well-being.
