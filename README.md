@@ -4,7 +4,13 @@
  <img width="55" height="53" alt="image" src="https://github.com/user-attachments/assets/7ade4617-ca8c-414f-ae90-00afef57be7d" />
 
 </p>
-
+ 
+ 
+<p align="center">
+  <a href="https://deskcare.app">Website</a> •
+  <a href="https://github.com/YOUR_ORG/deskcare/releases">Download</a> •
+  <a href="https://deskcare.app/support">Support</a>
+</p>
 <h3 align="center">
 Stay Healthy While You Work
 </h3>
