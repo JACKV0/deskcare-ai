@@ -118,7 +118,7 @@ Download the latest version from the Releases section.
 
 ### Latest Release
 
-[https://github.com/YOUR_ORGANIZATION/deskcare/releases](https://github.com/JACKV0/deskcare-ai/releases/tag/v0.0.39)
+[https://github.com/JACKV0/deskcare/releases](https://github.com/JACKV0/deskcare-ai/releases/tag/v0.0.39)
 
 ---
 
